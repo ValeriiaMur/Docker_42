@@ -1,0 +1,13 @@
+docker ps
+
+#To show all containers use the given command:
+#docker ps -a
+
+#To show the latest created container (includes all states) use the given command:
+#docker ps -l
+
+#To show n last created containers (includes all states) use the given command:
+#docker ps -n=-1
+
+#To display total file sizes use the given command:
+#docker ps -s

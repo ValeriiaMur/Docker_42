@@ -1,0 +1,3 @@
+docker restart overlord
+
+#Relaunch the overlord container.

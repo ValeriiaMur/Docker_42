@@ -1,0 +1,4 @@
+# Get the IP address of the Char virtual machine
+# 192.168.99.101
+
+docker-machine ip Char

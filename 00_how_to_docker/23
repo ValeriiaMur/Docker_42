@@ -1,0 +1,4 @@
+docker network create -d overlay --internal overmind
+
+# internal		Restrict external access to the network
+# --driver , -d	bridge	Driver to manage the Network

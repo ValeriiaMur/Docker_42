@@ -1,0 +1,3 @@
+docker exec spawning-pool env
+
+#To get inly one var use docker exec container env | grep VARIABLE | cut -d'=' -f2

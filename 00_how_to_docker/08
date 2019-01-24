@@ -1,0 +1,6 @@
+# Launch a shell from an alpine container
+#  --rm              Automatically remove the container when it exits
+# So here, -i stands for interactive mode and -t will allocate a pseudo 
+# terminal for us.
+
+docker run -i -t --rm alpine /bin/sh
