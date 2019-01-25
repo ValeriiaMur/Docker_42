@@ -2,7 +2,7 @@
 
 # Docker fun
 
-##Setup docker-machine:
+## Setup docker-machine:
 
 ```
 
