@@ -1,6 +1,5 @@
 # ft_docker_42
 
-# Docker fun
 
 ## Setup docker-machine:
 
